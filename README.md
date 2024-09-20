@@ -40,3 +40,8 @@ Feeding an ROI drawn around each of these defects to the DenseNet, the final res
 
 ![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/Result.png?raw=true)
 
+
+resultat de test :
+![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/TempTest.png?raw=true)
+![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/TempTest.png?raw=true)
+![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/TempTest.png?raw=true)
