@@ -42,6 +42,6 @@ Feeding an ROI drawn around each of these defects to the DenseNet, the final res
 
 
 resultat de test :
-![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/TempTest.png?raw=true)
-![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/TempTest.png?raw=true)
-![alt text](https://github.com/MukundSai7907/PCB-Defects-Detection-and-Classification/blob/main/Readme_Images/TempTest.png?raw=true)
+![alt text](https://github.com/nessrine-lafhal/PCB-Defects-Classification-Using-Deep-Learning-main/blob/main/pic1.png)
+![alt text](https://github.com/nessrine-lafhal/PCB-Defects-Classification-Using-Deep-Learning-main/blob/main/pic2.png)
+![alt text](https://github.com/nessrine-lafhal/PCB-Defects-Classification-Using-Deep-Learning-main/blob/main/pic3.png)
